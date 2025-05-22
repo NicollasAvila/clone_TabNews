@@ -1,0 +1,25 @@
+{
+  "name": "clone_tabnews",
+  "version": "1.0.0",
+  "description": "Repositório para as aulas do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicollasAvila/clone_TabNews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicollasAvila/clone_TabNews/issues"
+  },
+  "homepage": "https://github.com/NicollasAvila/clone_TabNews#readme",
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
